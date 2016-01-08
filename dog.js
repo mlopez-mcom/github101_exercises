@@ -27,3 +27,4 @@ for (i=0;i < dogArray.length; i++) {
         var sectionContainer = document.getElementById('dogs');
         sectionContainer.appendChild(animalDiv);
 }
+
