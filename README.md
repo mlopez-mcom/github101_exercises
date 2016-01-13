@@ -4,11 +4,13 @@
  
 1. Clone repo https://github.com/alexandraestrada/git101 
 
-2. Oh look! some of the cats are making very peculiar noises! Let’s fix that. 1 volunteer to change Mr Grumpy’s ruff ruff text to a cat noise and push it back up to the repo.
+2. Initialize local and remote repo for this project called gitPractice.
 
-3. Looks like there is a dog.js file as well with some dogs in there! Make sure you add the dog.js script tag and the appropriate div container with the class=”animalSection” and id=‘dogs’. Commit and push your changes.
+3. Oh look! some of the cats are making very peculiar noises! Let’s fix that. 1 volunteer to change Mr Grumpy’s ruff ruff text to a cat noise and push it back up to your repo.
 
-4. Everybody pull down changes. 
+4. Looks like there is a dog.js file as well with some dogs in there! Make sure you add the dog.js script tag and the appropriate div container with the class=”animalSection” and id=‘dogs’. Commit and push your changes.
+
+
 
 
 #### Part 2-Branching: 
@@ -23,11 +25,10 @@
 
 #### Part-3 Merging:
 
-1. Pull updated exercise.
 
-2. merge iss01 & iss02 into master 
+1. merge iss01 & iss02 into master: What kind of merge happend?
 
-3. add reptile.js to to master branch and commit. Then, pull in feat01. 
+2. add reptile.js to to master branch and commit. Then, pull in feat01. What kind of merge happend?
 
 4. Create merge conflict and Resolve.
 
