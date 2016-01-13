@@ -2,7 +2,7 @@
 
 #### Part 1-Review:
  
-1. Clone repo https://github.com/alexandraestrada/git101_exercise 
+1. Clone repo https://github.com/alexandraestrada/git101 
 
 2. Oh look! some of the cats are making very peculiar noises! Let’s fix that. 1 volunteer to change Mr Grumpy’s ruff ruff text to a cat noise and push it back up to the repo.
 
